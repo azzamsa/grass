@@ -23,3 +23,13 @@ Previously, I choose Rust for that goal. But it is hard and complex compared to 
 
 Some of the Rust cons also immature and small ecosystems. But the community and the compiler are very helpful. I keep coming back because I see a lot of potential in it. Learning a completely different language than Python also will expand my views on programming. *Is Rust syntaxes can be made simpler?*
 
+### 2) [sfetch](sfetch) - simple fetch.
+
+- Python (main)
+- sh
+
+This is the new chapter in my shell programming journey. After moving to bspwm from i3 I write a bunch of shell scripts. `shellcheck` is very helpful in writing a complex script, but I doubt in the maintenance and readability side. I was looking for other alternative languages. In the end, I settled with Python.
+
+`sfetch` is a simple system information fetcher that I wrote initially in bash, then ported to POSIX-sh. I want it to grow easily, so it end-up rewritten in Python.
+
+I put them here to show how the taste of each language. Though I moved to Python completely before finishing the sh version. For growing applications, I doubt I will write it in bash/sh.
